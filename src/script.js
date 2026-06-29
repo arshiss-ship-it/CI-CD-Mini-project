@@ -1,4 +1,4 @@
 function showMessage() {
     document.getElementById("message").innerHTML =
-        "🎉 Congratulations! Your CI/CD project is working.";
+    "🌸 You're amazing! Thanks for visiting my CI/CD Mini Project. 💕";
 }
