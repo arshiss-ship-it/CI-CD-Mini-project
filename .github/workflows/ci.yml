@@ -17,4 +17,4 @@ jobs:
         run: echo "CI/CD Pipeline is running successfully!"
 
       - name: List Project Files
-        run: ls -laclear
+        run: ls -la
