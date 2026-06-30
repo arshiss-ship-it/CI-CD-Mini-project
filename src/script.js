@@ -1,3 +1,3 @@
 function greet() {
-    alert("You're absolutely slaying today! 💖✨");
+    alert("✨ Welcome to my CI/CD Mini Project! Thanks for visiting. 💖");
 }
